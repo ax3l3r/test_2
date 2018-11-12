@@ -20,4 +20,5 @@ int main()
         else
             printf("%d",c);
     return 0;
+    //test modificare
 }
